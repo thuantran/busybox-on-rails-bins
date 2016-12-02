@@ -1,0 +1,8 @@
+[
+  {
+    arch="x86",
+    version="1.25.1",
+    busybox_checksum="3c7fee99",
+    reboot_checksum="3e172bd1"
+  }
+]

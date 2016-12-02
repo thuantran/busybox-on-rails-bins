@@ -1,0 +1,8 @@
+[
+  {
+    arch="armv8",
+    version="1.25.1",
+    busybox_checksum="07c25473",
+    reboot_checksum="a6e80b01"
+  }
+]
